@@ -3,4 +3,4 @@ Simple Lissajous Curve renderer/generator in Python using matplotlib
 
 # Example
 
-![](lissajous.png)
+![](image.png)
